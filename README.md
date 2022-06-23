@@ -34,7 +34,7 @@ becomes the first one.
 
 ## Approach
 
-I used linked list but not have a integer, i used *char* array and i'm checking ones tens and hundreds digit area and compare each other.
+I used linked list but don't have a integer, i used *char* array and i'm checking ones tens and hundreds digit area and compare each other.
 
 
 ## Compiling and Usage
