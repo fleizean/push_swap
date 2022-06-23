@@ -46,7 +46,5 @@ Run **make** from terminal and use command:
 
 ``./push_swap 1 5 2 4 3``    
 
-![example](screenshot.png)
-
 *More information about sorting algorithms:*  
 https://www.interviewcake.com/concept/python/radix-sort
