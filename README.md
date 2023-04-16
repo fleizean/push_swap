@@ -20,10 +20,9 @@
     push_swap is a 42 school algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
 </p>
 
-<h3 align="center">
-  Usage
-</h3>
-<p align="center">
+### Usage
+
+
 Git clone the repository and cd into it. Then use ```make``` to compile.
 
 Then run it with :
@@ -31,13 +30,11 @@ Then run it with :
 ```shell
 ./push_swap <numbers>
 ```
-</p>
 
-<h3 align="center">
-  Rules
-</h3>
 
-<p align="center">
+### Rules
+
+
 The program is only allowed two stacks to work with, stack A and stack B. All the numbers are initially added to stack A, and B is empty.
 
 The possible actions are:
@@ -53,7 +50,7 @@ The possible actions are:
 * ```rra``` (reverse rotate A): Shift all elements of stack A down by 1. The last element becomes the first one.
 * ```rrb``` (reverse rotate B): Shift all elements of stack b down by 1. The last element becomes the first one.
 * ```rrr``` : ```rra``` and ```rrb``` at the same time.
-</p>
+
 
 <h2 align="center">
   Evaluation
